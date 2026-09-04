@@ -12,7 +12,7 @@ const GAS_API_URL = "PASTE_URL_WEB_APP_APPS_SCRIPT_DI_SINI";
 
 // Jika menggunakan Vercel Serverless Proxy:
 // const API_URL = "/api/peminjaman";
-const API_URL = GAS_API_URL;
+const API_URL = "/api/peminjaman";
 
 let allBookings = [];
 let filteredBookings = [];
