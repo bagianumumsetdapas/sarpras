@@ -8,7 +8,7 @@
  * const GAS_API_URL = "https://script.google.com/macros/s/XXXXX/exec";
  */
 
-const GAS_API_URL = "PASTE_URL_WEB_APP_APPS_SCRIPT_DI_SINI";
+//const GAS_API_URL = "PASTE_URL_WEB_APP_APPS_SCRIPT_DI_SINI";
 
 // Jika menggunakan Vercel Serverless Proxy:
 // const API_URL = "/api/peminjaman";
